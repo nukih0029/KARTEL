@@ -1,0 +1,145 @@
+img{
+
+    width: 350px;
+}
+body{
+
+    background-image: url("images/dddddddddd.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+}
+h1{
+
+    font-size: 100px;
+    text-shadow: 0px 0px 20px black;
+}
+p{
+color: aliceblue;
+font-size: 20px;
+background-color: rgba(0, 0, 0, 0.459);
+border-radius: 30px;
+padding: 30px;
+
+}
+button{
+    width: 200px;
+}
+
+button.spidey{
+    width: 140px;
+    height: 40px;
+    background-image: url("images/image-removebg-preview.png");
+    background-size: cover;
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+    margin: 20px ;
+    
+    
+    }
+
+    button.F{
+    width: 145px;
+    height: 70px;
+    background-image: url("images/cccc-removebg-preview.png");
+    background-size: cover;
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+
+    }
+    button.g{
+
+width: 145px;
+    height: 75px;
+    background-image: url("images/xxxxxxxxxxx-removebg-preview.png");
+    background-size: cover;
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+
+
+    }
+    button{
+
+background-color: rgb(40, 147, 241);
+width: 300px ;
+height: 150px;
+font-size: 35px;
+
+color: aliceblue;
+
+    }
+.ggg{
+        animation-name: ttt;
+        animation-duration: 0.5s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+
+
+
+}
+@keyframes ttt{
+    0%{
+
+        transform: translateY(-40px);
+
+    
+    }
+   
+   
+   10%{
+
+    transform: translateY(-30px);
+   }
+   
+   
+   
+   
+    25%{
+        transform: translateY(-20px);
+
+    
+   }
+   40%{
+        transform: translateY(-10px);
+
+    
+   }
+    
+    
+    
+    50%{
+
+
+
+        transform: translateY(0px);
+    }
+
+    60%{
+
+
+        transform: translateY(-10px);
+    }
+    
+    
+    
+    75%{
+
+        transform: translateY(-20px);
+
+    }
+
+    85%{
+        transform: translateY(-30px);
+
+    
+   }
+    
+    
+    100%{
+
+
+        transform: translateY(-40px);
+    }
+
+}
